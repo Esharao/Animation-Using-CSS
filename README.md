@@ -24,4 +24,5 @@ JavaScript: Dynamic star generation for a twinkling background.
 
 Output:- 
 ![image](https://github.com/user-attachments/assets/b7a3bf06-4d0b-441b-9c47-42dc189a4537)
+
 ![image](https://github.com/user-attachments/assets/ba23ddf0-a8b3-465b-8cb8-83195b3a7a33)
