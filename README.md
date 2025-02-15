@@ -1,4 +1,4 @@
-# css-aniamtion
+# Animation Using CSS
  rotation and revolution
  Overview
 
